@@ -1,5 +1,4 @@
-# Hi! 
-### 🛠️ 기술 스택 (Tech Stack)
+# Dong Min Kim
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -8,7 +7,6 @@
 
 ---
 
-### 📊 깃허브 통계 (My GitHub Stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehdalsl&show_icons=true&theme=radical" alt="github stats" />
   <br/>
